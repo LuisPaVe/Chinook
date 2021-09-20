@@ -1,0 +1,9 @@
+D:\MisProyectos\MiSistema\MiSistema.Data\bin\Debug\MiSistema.Data.dll
+D:\MisProyectos\MiSistema\MiSistema.Data\bin\Debug\MiSistema.Data.pdb
+D:\MisProyectos\MiSistema\MiSistema.Data\obj\Debug\MiSistema.Data.csproj.AssemblyReference.cache
+D:\MisProyectos\MiSistema\MiSistema.Data\obj\Debug\MiSistema.Data.csproj.CoreCompileInputs.cache
+D:\MisProyectos\MiSistema\MiSistema.Data\obj\Debug\MiSistema.Data.dll
+D:\MisProyectos\MiSistema\MiSistema.Data\obj\Debug\MiSistema.Data.pdb
+D:\MisProyectos\MiSistema\MiSistema.Data\bin\Debug\MiSistema.Entities.dll
+D:\MisProyectos\MiSistema\MiSistema.Data\bin\Debug\MiSistema.Entities.pdb
+D:\MisProyectos\MiSistema\MiSistema.Data\obj\Debug\MiSistema.Data.csproj.CopyComplete

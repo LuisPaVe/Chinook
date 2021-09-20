@@ -1,0 +1,16 @@
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\obj\Debug\MiSistema.UI.Desktop.csproj.AssemblyReference.cache
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\obj\Debug\MiSistema.UI.Desktop.frmArtist.resources
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\obj\Debug\MiSistema.UI.Desktop.Properties.Resources.resources
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\obj\Debug\MiSistema.UI.Desktop.csproj.GenerateResource.cache
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\obj\Debug\MiSistema.UI.Desktop.csproj.CoreCompileInputs.cache
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\bin\Debug\MiSistema.UI.Desktop.exe.config
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\bin\Debug\MiSistema.UI.Desktop.exe
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\bin\Debug\MiSistema.UI.Desktop.pdb
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\bin\Debug\MiSistema.Data.dll
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\bin\Debug\MiSistema.Data.pdb
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\obj\Debug\MiSistema.UI.Desktop.csproj.CopyComplete
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\obj\Debug\MiSistema.UI.Desktop.exe
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\obj\Debug\MiSistema.UI.Desktop.pdb
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\bin\Debug\MiSistema.Entities.dll
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\bin\Debug\MiSistema.Entities.pdb
+D:\MisProyectos\MiSistema\MiSistema.UI.Desktop\obj\Debug\MiSistema.UI.Desktop.frmInsertArtist.resources
